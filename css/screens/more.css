@@ -1,0 +1,28 @@
+.more-screen .icon-row {
+  margin-top: 35px;
+}
+
+.more-suggestions {
+  margin-top: 50px;
+  border-top: var(--main-border);
+  padding-top: 40px;
+}
+
+.more-suggestions__title {
+  margin-bottom: 30px;
+}
+
+.diary {
+  border: 2px solid black;
+  width: 40%;
+  height: 180px;
+  margin-top: 20px;
+  border-radius: 5px;
+}
+.diary-container {
+  display: flex;
+  justify-content: space-evenly;
+}
+.diary-pic {
+  float: right;
+}
